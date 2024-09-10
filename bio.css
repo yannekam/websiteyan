@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(167, 167, 167);
+}
+
+img {
+    box-shadow: 2px 8px 10px rgb(0, 0, 0.3);
+}
+.container {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.profil {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.caption {
+    margin-top: 300px;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+}
